@@ -1,0 +1,8 @@
+! Title: Neuro-NX – Adult - Eporner (no:1440p)
+! Version: 202507291641
+! Last Modified: Tue, 29 Jul 2025 16:41:00 +0000
+! Expires: 7 days
+! License: https://github.com/neuro-nx/neuronx-ublock-filterlist/blob/master/LICENSE
+
+! eporner.com
+www.eporner.com##.mb, .mb span:has-text(1440p)

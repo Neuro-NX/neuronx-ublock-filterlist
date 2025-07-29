@@ -1,0 +1,32 @@
+! Title: Neuro-NX – Adult
+! Version: 202507291641
+! Last Modified: Tue, 29 Jul 2025 16:41:00 +0000
+! Expires: 7 days
+! License: https://github.com/neuro-nx/neuronx-ublock-filterlist/blob/master/LICENSE
+
+! eporner.com
+!||www.eporner.com/xhr/*$xhr,1p
+||static-eu-cdn.eporner.com/new/adinhead.png$image
+||static-eu-cdn.eporner.com/new/adinhead.png$image
+||www.eporner.com/dash-report.php$xhr,1p
+||www.eporner.com/vtt/*$xhr,1p
+www.eporner.com##.vjs-button.vjs-control.vjs-picture-in-picture-control > .vjs-icon-placeholder
+www.eporner.com##.vjs-docker
+www.eporner.com###adinhead
+www.eporner.com###adstripe
+www.eporner.com###cookies
+www.eporner.com###googleSignInButton1
+www.eporner.com##movieplayer-box-adv
+
+! eporner.com - Hide categories
+www.eporner.com##[href*="/cat/fat/"],[href*="/cat/gay/"],[href*="/cat/shemale/"],[href*="/cat/hentai/"],[href*="/cat/indian/"],[href*="/cat/old-man/"],[href*="/cat/swingers/"],[href*="/cat/sleep/"],[href*="/cat/small-tits/"],[href*="/cat/public/"],[href*="/cat/bondage/"]
+
+! spankbang.com
+spankbang.com##.info [href*="sex.com"]
+spankbang.com###shorts-frame
+
+! spankbang.com - Age verification
+! A temporary fix:
+! Requires Userstyles extension, like Stylus, to prevent scroll hijacking:
+! .fixed {position: inherit !important;}
+spankbang.com##body#body-html.fixed #av-wrapper
