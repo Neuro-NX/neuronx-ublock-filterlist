@@ -6,3 +6,4 @@
 
 ! spankbang.com
 spankbang.com##.video-list .video-item:has(span:has-text(4K))
+spankbang.com##.search_page [data-testid="video-item"]:has(.text-primary.text-body-sm:has(:has-text(4K)))
