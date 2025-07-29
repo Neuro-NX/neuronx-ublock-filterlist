@@ -1,8 +1,8 @@
-! Title: Neuro-NX – Adult - Spankbang (no:VR)
+! Title: Neuro-NX – Adult - Eporner (no:VR)
 ! Version: 202507291641
 ! Last Modified: Tue, 29 Jul 2025 16:41:00 +0000
 ! Expires: 7 days
 ! License: https://github.com/neuro-nx/neuronx-ublock-filterlist/blob/master/LICENSE
 
-! spankbang.com
-www.eporner.com##.mb, .mb .vrico span:has-text(VR)
+! eporner.com
+eporner.com##.mb, .mb .vrico span:has-text(VR)
