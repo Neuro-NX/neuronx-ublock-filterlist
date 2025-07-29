@@ -1,0 +1,5 @@
+! Title: Neuro-NX – Example
+! Expires: 7 days
+! License: https://github.com/neuro-nx/neuronx-ublock-filterlist/blob/master/LICENSE
+
+www.google.com##body
