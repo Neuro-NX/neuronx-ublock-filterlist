@@ -1,0 +1,9 @@
+! Title: Neuro-NX – Adult - Spankbang (only:AI)
+! Version: 202507311457
+! Last Modified: Thu, 31 Jul 2025 14:57:21 +0000
+! Expires: 7 days
+! License: https://github.com/neuro-nx/neuronx-ublock-filterlist/blob/master/LICENSE
+
+! Show only AI generated photos, hide all others.
+! spankbang.com
+spankbang.com##[data-testid*="photos"] .js-media-list a:has(:not(span:has-text(AI)))
