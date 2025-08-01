@@ -1,8 +1,9 @@
 ! Title: Neuro-NX – Adult - Spankbang (no:HD)
-! Version: 202507311457
-! Last Modified: Thu, 31 Jul 2025 14:57:21 +0000
+! Version: 202508012323
+! Last Modified: Fri, 01 Aug 2025 23:23:30 +0000
 ! Expires: 7 days
 ! License: https://github.com/neuro-nx/neuronx-ublock-filterlist/blob/master/LICENSE
 
 ! spankbang.com
-spankbang.com##[data-testid="video-item"]:has(.video-list .video-item .thumb .video-badge:has-text(HD))
+spankbang.com##[data-testid="main"] [data-testid="video-item"]:has(.text-body-sm.text-primary:has-text(HD))
+spankbang.com##[data-testid="main"] [data-testid="video-item"]:has(span.video-badge:has-text(HD))
