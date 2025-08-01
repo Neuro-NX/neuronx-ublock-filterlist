@@ -4,5 +4,6 @@
 ! Expires: 7 days
 ! License: https://github.com/neuro-nx/neuronx-ublock-filterlist/blob/master/LICENSE
 
-! spankbang.com
-spankbang.com##[data-testid="video-item"]:has(:not(:has(.video-list .video-item .thumb .video-badge:has-text(HD))):not(:has(.video-list .video-item .thumb .video-badge:has-text(4K))))
+! spankbang.com Hide videos not HD/4K (SD quality), but which must not
+! have a padlock icon labeled 'Explicit content locked'.
+spankbang.com##.main-container [data-testid="video-item"]:not(:has(.bg-surface-brand-primary[aria-label="Explicit content locked"])):has(:not(:has(.video-list .video-item .thumb .video-badge:has-text(HD))):not(:has(.video-list .video-item .thumb .video-badge:has-text(4K))))

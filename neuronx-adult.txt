@@ -30,3 +30,4 @@ spankbang.com###shorts-frame
 ! Requires Userstyles extension, like Stylus, to prevent scroll hijacking:
 ! .fixed {position: inherit !important;}
 spankbang.com##body#body-html.fixed #av-wrapper
+spankbang.com##.bg-surface-brand-primary[aria-label="Explicit content locked"]
