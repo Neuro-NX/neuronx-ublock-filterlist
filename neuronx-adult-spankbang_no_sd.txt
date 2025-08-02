@@ -5,4 +5,4 @@
 ! License: https://github.com/neuro-nx/neuronx-ublock-filterlist/blob/master/LICENSE
 
 ! spankbang.com
-spankbang.com##[data-testid="main"] [data-testid="video-item"]:not(:has(.bg-surface-brand-primary[aria-label~="locked"])):has(:not(.text-body-sm.text-primary:has-text(HD)):not(.text-body-sm.text-primary:has-text(4K)):not(span.video-badge:has-text(HD)):not(span.video-badge:has-text(4K)))
+spankbang.com##[data-testid="main"]:not(:has(#user_panel)) [data-testid="video-item"]:not(:has(.bg-surface-brand-primary[aria-label~="locked"])):has(:not(.text-body-sm.text-primary:has-text(HD)):not(.text-body-sm.text-primary:has-text(4K)):not(span.video-badge:has-text(HD)):not(span.video-badge:has-text(4K)))
