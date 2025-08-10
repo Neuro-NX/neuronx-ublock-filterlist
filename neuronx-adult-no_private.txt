@@ -1,0 +1,9 @@
+! Title: Neuro-NX – Adult (no:private)
+! Version: 202508102043
+! Last Modified: Sun, 10 Aug 2025 20:43:36 +0000
+! Expires: 7 days
+! License: https://github.com/neuro-nx/neuronx-ublock-filterlist/blob/master/LICENSE
+
+! Hide private videos
+camwhoreshd.com##.item.private
+camwhores.tv##.item.private
